@@ -114,11 +114,5 @@ do
 
         COPIA="$DESTINO/$PASTA/$DATA_LINHA/$ARQUIVO"
 
-#       if
-#               [ -f "$COPIA" ]; then
-#               echo "$ARQUIVO copiado."
-#       else
-#               echo "$ARQUIVO Não foi copiado"
-#       fi
 done
 
