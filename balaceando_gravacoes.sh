@@ -67,7 +67,7 @@ echo '##########################################################################
 echo '################################################################################'
 echo ' '
 
-echo 'DIGITE O DIRETÓRIO DE ORIGEM PARA ACESSARI E REALIZAR A CÓPIA DAS GRAVAÇÕES'
+echo 'DIGITE O DIRETÓRIO DE ORIGEM PARA ACESSAR E REALIZAR A CÓPIA DAS GRAVAÇÕES'
 read PASTA
 
 # Verificar se o diretório existe
